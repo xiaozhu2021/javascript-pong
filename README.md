@@ -13,3 +13,13 @@ NOTES
 =====
 
  * No support for mobile devices (need to handle touch events instead of key input)
+
+
+---------------------
+# 乒乓球
+
+这是在HTML中实现经典Pong游戏版本的一个小实验。
+
+
+笔记
+不支持移动设备（需要处理触摸事件而不是按键输入）
