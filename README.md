@@ -25,7 +25,7 @@ NOTES
 不支持移动设备（需要处理触摸事件而不是按键输入）
 
 
-
+ [g开始吧！](https://xiaozhu2021.github.io/javascript-pong/)
 
 
 -------------------
